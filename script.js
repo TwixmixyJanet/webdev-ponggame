@@ -9,7 +9,7 @@ function update(time) {
     const delta = time - lastTime
     // Update code
     // console.log(delta);
-    ball.update(delta)
+    // ball.update(delta)
     }
 
     lastTime = time
